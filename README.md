@@ -2,9 +2,6 @@
 <h1>Zillowe Foundation</h1>
 <img width="150px" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/profile.png"/>
 <br/>
-
-<hr/>
-
 </div>
 
 ## Welcome
