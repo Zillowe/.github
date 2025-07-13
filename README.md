@@ -31,8 +31,12 @@ To build a community of developers who share our vision and values, and to creat
 ## Parts
 
 - [Zillwen](https://gitlab.com/Zillowe/Zillwen)
-  - [Zusty](https://gitlab.com/Zillowe/Zillwen/Zusty)
   - [Astra](https://gitlab.com/Zillowe/Zillwen/Astra)
   - [Zowdy](https://gitlab.com/Zillowe/Zillwen/Zowdy)
+  - [Zusty](https://gitlab.com/Zillowe/Zillwen/Zusty)
 - [ZilloweX](https://gitlab.com/Zillowe/ZilloweX)
+  - [Akuolwa](https://gitlab.com/Zillowe/ZilloweX/Akuolwa)
+  - [Parlex](https://gitlab.com/Zillowe/ZilloweX/Parlex)
+  - [Warlex](https://gitlab.com/Zillowe/ZilloweX/Warlex)
 - [ZilloweY](https://gitlab.com/Zillowe/ZilloweY)
+  - [Howdy](https://gitlab.com/Zillowe/ZilloweY/Howdy)
