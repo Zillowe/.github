@@ -26,11 +26,13 @@ To build a community of developers who share our vision and values, and to creat
 
 <img alt="X logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@ZilloweFdn](https://x.com/ZilloweFdn)
 
+<img alt="Bluesky logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/bluesky.svg"/> Bluesky: [@zillowe.bsky.social](https://bsky.app/profile/zillowe.bsky.social)
+
+<img alt="Discord logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/discord.svg"/> Discord: [Server](https://discord.gg/P4R7yaA3hf)
+
 <img alt="Instagram logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/instagram.svg"/> Instagram: [@zillowefdn](https://instagram.com/zillowefdn)
 
 <img alt="Mastodon logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/mastodon.svg"/> Mastodon.social: [@Zillowe@mastodon.social](https://mastodon.social/@Zillowe)
-
-<img alt="Matrix logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/matrix.svg"/> Matrix: [#zillowe:matrix.org](https://matrix.to/#/#zillowe:matrix.org")
 
 ## Parts
 
