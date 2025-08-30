@@ -26,7 +26,7 @@ To build a community of developers who share our vision and values, and to creat
 
 <img alt="X logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@ZilloweFdn](https://x.com/ZilloweFdn)
 
-<img alt="Bluesky logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/bluesky.svg"/> Bluesky: [@zillowe.bsky.social](https://bsky.app/profile/zillowe.bsky.social)
+<img alt="Bluesky logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/bluesky.svg"/> Bluesky: [@zillowe.qzz.io](https://bsky.app/profile/zillowe.qzz.io)
 
 <img alt="Discord logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/discord.svg"/> Discord: [Server](https://discord.gg/P4R7yaA3hf)
 
