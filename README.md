@@ -26,6 +26,8 @@ To build a community of developers who share our vision and values, and to creat
 
 <img alt="Discord logo" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/discord.svg"/> Discord: [Server](https://discord.gg/P4R7yaA3hf)
 
+<img alt="Email icon" width="15" src="https://gitlab.com/Zillowe/gitlab-profile/-/raw/main/assets/img/social/email.svg"/> Email: [contact@zillowe.qzz.io](mailto:contact@zillowe.qzz.io)
+
 ## Parts
 
 - [Zillwen](https://gitlab.com/Zillowe/Zillwen)
